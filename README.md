@@ -1,12 +1,15 @@
-# React + Vite
+# AI Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an AI-powered chatbot built using **Vite**, **ReactJS**, **TailwindCSS**, and the **Gemini API**. It allows users to interact with an AI assistant, ask questions, and get responses in real-time.
 
-Currently, two official plugins are available:
+## Features
+- **Real-time interaction** with the AI.
+- **Responsive design** using TailwindCSS.
+- **Fast development** and build times with Vite.
+- Integrated with **Gemini API** for AI-powered responses.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+- **Vite**: A fast and modern build tool that provides a fast development environment.
+- **ReactJS**: A JavaScript library for building user interfaces.
+- **TailwindCSS**: A utility-first CSS framework for building custom designs.
+- **Gemini API**: AI-powered responses for natural language processing.
